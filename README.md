@@ -12,6 +12,14 @@ Download `diffs_en_tgm.dll` from [this](https://github.com/spicytigermeat/tigerm
 
 - includes the following phonemes: `tr` `dr` `ax` `dx`
 
+## Usage
+
+You may distribute this with your DiffSinger libraries, so long as proper credit is given! You may copy paste this into any 'readme' you may have if you would like, otherwise just mentioning "DIFFS EN TGM by tigermeat" and linking to this repo is fine.
+```
+DIFFS EN TGM Phonemizer by tigermeat
+https://github.com/spicytigermeat/tigermeat_en_ds_phonemizer
+```
+
 ## Future plans
 
 - Improve G2p model to include more specific accent things for a more casual, singing style of English pronunciation, like including `q` for glottal stops and such.
