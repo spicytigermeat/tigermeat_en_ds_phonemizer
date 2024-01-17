@@ -6,7 +6,7 @@
 
 ## How to Install
 
-Download `diffs_en_tgm.dll` from [this](https://github.com/spicytigermeat/tigermeat_en_ds_phonemizer/releases/download/v1.0.0/diffs_en_tgm.dll) link, and put the file in the `Plugins` folder of your version of OpenUTAU.
+Download `diffs_en_tgm.dll` from [this](https://github.com/spicytigermeat/tigermeat_en_ds_phonemizer/releases/download/v1.0.0/diffs_en_tgm.dll) link, and drag the file into an open OpenUTAU window.
 
 This phonemizer looks for `dsdict-en-tgm.yaml` to load phonemes, grapheme overrides and phoneme replacements.
 
