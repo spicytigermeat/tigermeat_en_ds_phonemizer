@@ -1,7 +1,9 @@
 # DIFFS EN TGM
 <p align="center">
   tigermeat's custom English DiffSinger Phonemizer for OpenUTAU<br><br>
-  <img src="src/tgmphonemizer.png" title="Screenshot of tigermeat phonemizer in OpenUTAU">
+  <img src="src/tgmphonemizer.png" title="Screenshot of tigermeat phonemizer in OpenUTAU"><br>
+  
+  <img src="src/pinuroll.png" title="Screenshot of OpenUTAU's Piano Roll using DIFFS EN TGM">
 </p>
 
 ## How to Install
